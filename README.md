@@ -1,6 +1,6 @@
 # Resume-Projects
 
-# Archiver in C
+**Archiver in C**
 
 C archiver using Huffman code.
 
