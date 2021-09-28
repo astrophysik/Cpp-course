@@ -1,6 +1,6 @@
 # Resume-Projects
 
-**Archiver in C**
+**Archiver (C)**
 
 C archiver using Huffman code.
 
@@ -12,10 +12,10 @@ arc --file *name* --list <- list of filenames in archive
 
 arc --file *name* --extract <- extract 
 
-**Intrusive List**
+**Intrusive List (C++)**
 
 An intrusive List is a container that is a doubly linked list. Unlike std :: list, it does not make copies of the elements inserted into the list, but builds a list of those objects that are passed to it in insert, push_front and push_back.
 
-**LFRU-MULTI-TYPE**
+**LFRU-MULTI-TYPE (C++)**
 
 The cache is divided into two areas: privileged and non-privileged. The privileged one is modeled as an LRU list, and the non-privileged one is modeled as a FIFO queue.
