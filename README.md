@@ -18,6 +18,6 @@ An intrusive List is a container that is a doubly linked list. Unlike std :: lis
 
 You can add objects not of any type to intrusive :: list, but only those that inherit from intrusive :: list_element <Tag>
 
-**LFRU-MULTI-TYPE (C++)**
+**LFRU-MULTI-TYPE Allocator (C++)**
 
 The cache is divided into two areas: privileged and non-privileged. The privileged one is modeled as an LRU list, and the non-privileged one is modeled as a FIFO queue.
