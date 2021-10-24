@@ -21,3 +21,7 @@ You can add objects not of any type to intrusive :: list, but only those that in
 **LFRU-MULTI-TYPE Allocator (C++)**
 
 The cache is divided into two areas: privileged and non-privileged. The privileged one is modeled as an LRU list, and the non-privileged one is modeled as a FIFO queue.
+
+**Shared Pointer (C++)**
+  
+Shared_ptr is a smart pointer that retains shared ownership of an object through a pointer. Several shared_ptr objects may own the same object.   
