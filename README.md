@@ -25,3 +25,7 @@ The cache is divided into two areas: privileged and non-privileged. The privileg
 **Shared Pointer (C++)**
   
 Shared_ptr is a smart pointer that retains shared ownership of an object through a pointer. Several shared_ptr objects may own the same object.   
+
+**Function (C++)**
+  
+Implemented analog of standard function with small object  optimisation.   
