@@ -28,4 +28,8 @@ Shared_ptr is a smart pointer that retains shared ownership of an object through
 
 **Function (C++)**
   
-Implemented analog of standard function with small object  optimisation.   
+Implemented analog of standard function with small object  optimisation. 
+  
+**Integral Calculation Lib (C++)**
+
+Small lib for calculation integrals of the second kind and curvilinear integrals. Implemented simple multithreading to make program faster.
