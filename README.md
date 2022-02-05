@@ -1,4 +1,4 @@
-# Resume-Projects
+# C++ course practices
 
 **Intrusive List (C++)**
 
